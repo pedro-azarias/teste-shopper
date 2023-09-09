@@ -50,7 +50,7 @@ O sistema é capaz de:
   <tr>
     <td align="center">
       <a href="#">
-      <img src="./assets/download.jpg" width="100px;" alt="Foto do Pedro no GitHub"/><br>
+      <img src="./foto-perfil.jpg" width="100px;" alt="Foto do Pedro no GitHub"/><br>
         <sub>
           <b> Pedro Henrique</b>
         </sub>
